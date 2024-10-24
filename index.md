@@ -1,7 +1,9 @@
 ---
 title: Welcome to my blog
 ---
+
+
 ---
-title:ICE skills gitup pages formating 
+title: ICE skills gitup pages formating 
 ---
 # welcome
